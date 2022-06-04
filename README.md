@@ -9,3 +9,6 @@ This project is meant to simulate the process of how web searches function. I cr
 one webpage to another webpage. the internet is actually a map and each weblink people use on any web search website gos from one place to another 
 in the vast space that is the cloud internet. I simulate this map using Eigen vectors to show that webpages are connected and linked to each other. 
 The numbers genrated are the differnt links that are topics related to each other that the internet suggests a person to slick and look at. <br> 
+
+To start: 
+Run the file "ProjectPageRanker.py"
